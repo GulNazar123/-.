@@ -1,0 +1,169 @@
+section {
+    border: 3px double black;
+    width: fit-content;
+    height: 175px;
+}
+
+table a {
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    width: 1980;
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+}
+
+.rr {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+}
+
+.gg {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+}
+
+.tt {
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+    font-size: 30px;
+}
+
+.ff {
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+    font-size: 30px;
+}
+
+table {
+    border: 3px double black ;
+    border-collapse: collapse;
+    margin: 20px 0px 20px 0px;
+}
+
+td {
+    border: 3px double black ;
+}
+
+table img{
+    width: 50px;
+    height: 50px;
+}
+
+main img {
+    width: 150px;
+    hyphens: 300px;
+}
+
+h1 {
+    border: 3px dotted black;
+    width: 220px;
+    text-align: center;
+    background-color: aqua;
+}
+
+.re {
+    background-color: aqua;
+    border-radius: 13px;
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+
+p {
+    background-color: aqua;
+    border-radius: 13px;
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.yt {
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+    float: left;
+    background-color: white;
+    padding: 20px;
+}
+
+.yt a {
+   color: black;
+   text-decoration: none;
+   text-align: center;
+}
+
+.yt img {
+    width: 150px;
+    height: 180px;
+    text-align: center;
+}
+
+.tgg {
+    background-color: black;
+    padding: 20px;
+    margin-top: 500px;
+
+}
+
+.gtg {
+    width: 300px;
+}
+
+.ttt {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.rrrr {
+    background-color: aqua;
+    border-radius: 13px;
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    width: 400px;
+}
+
+.plp {
+    float: left;
+    width: fit-content;
+    border: 5px dotted black;
+    margin: 20px;
+    height: fit-content;
+}
